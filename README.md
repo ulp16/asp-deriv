@@ -1,4 +1,4 @@
-# asp_deriv
+# asp-deriv
 This is a repository with a sample code used in "Automatic detection of grammatical aspect of Russian verbs based on their morphological properties"
 
 If you use asp-deriv, please cite the paper below.
