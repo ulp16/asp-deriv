@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ### INFO: in order to install and use gensim with the pretrained model of
 #   2018, you should install gensim 3.8, so you should use Python 3.8.0 and pip from Python 3.8.0 + pip install wheel; use alias python=python3.8 before using python
-### USAGE: python visualize.rank-v9.py
+### USAGE: python visualize.rank.py
 ##python3.8 -m pip install seaborn
 
 
